@@ -1,5 +1,5 @@
 // This is a poorly written code. Mostly Because I burnt out a little and just wanted to get done with it.
-// If you want help understanding this code, you can ask me on Bedrock Addons Server.\
+// If you want help understanding this code, you can ask me on Bedrock Addons Server.
 // Made by Efficient123.
 
 import { world, system } from "@minecraft/server";
