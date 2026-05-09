@@ -1,7 +1,7 @@
 {
     "format_version": 2,
     "header": {
-        "name": "Steve Language v2",
+        "name": "Steve Language v1",
         "description": "This adds a custom language to Minecraft accesible via Book and Quill.",
         "uuid": "ea49361c-f03c-4064-95f3-128eedfaa823",
         "version": "1.0.0",
