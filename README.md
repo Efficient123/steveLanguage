@@ -17,19 +17,23 @@ else
 end
 ```
 Nesting is SUPPORTED.
+
 6. Functions:
 ```
 fn name (argu, ments)
 steve x = /argu/ + /ments/
 fnEn
 ```
+
 7. Loops:
 ```
 repeat (10)
 --code--
 rEnd
 ```
+
 Nesting is SUPPORTED.
+
 8. Basic arithmetic:
 Only one operation at a time.
 Available operations:
